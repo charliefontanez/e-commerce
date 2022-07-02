@@ -3,7 +3,7 @@
 
 ## Description
 
-A project using Sequelize and object relational mapping to create and maintain an SQL database that represents the backend of an e-commerce site.
+A backen project using Sequelize and Object Relational Mapping to create and maintain an SQL database that represents the backend of an e-commerce site.
 
 ## Packages
 - dotenv
