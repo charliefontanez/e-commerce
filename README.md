@@ -12,6 +12,8 @@ A project using Sequelize and object relational mapping to create and maintain a
 - Sequelize
 - nodemon
 
+https://user-images.githubusercontent.com/97649021/176994110-68bcf10d-7572-4998-aaf1-5ce0932ecfce.mp4
+
 ## Languages and Tools Used
 - Javascript
 - ES6 - ECMAScript 6
