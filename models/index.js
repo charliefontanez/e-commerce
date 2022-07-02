@@ -21,7 +21,6 @@ Category.hasMany(Product, {
 
 Product.belongsToMany(Tag, {
   through: ProductTag,
-  // as: 'related_products',
   foreignKey: 'product_id'
 });
 
@@ -29,7 +28,6 @@ Product.belongsToMany(Tag, {
 
 Tag.belongsToMany(Product, {
   through: ProductTag,
-  // as: 'related_products',
   foreignKey: 'tag_id'
 });
 
